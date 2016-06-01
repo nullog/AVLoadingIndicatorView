@@ -1,10 +1,9 @@
 package com.wang.avi.indicator;
 
+import android.animation.Animator;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.view.View;
-
-import com.nineoldandroids.animation.Animator;
 
 import java.lang.ref.WeakReference;
 import java.util.List;
